@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\toban\\Desktop\\proyecto\\WebApplication1.Web\\WebApplication1.Web\\WebApplication1.Web.csproj": {}
+    "C:\\Users\\toban\\Desktop\\proyecto final\\WebApplication1.Web\\WebApplication1.Web\\WebApplication1.Web.csproj": {}
   },
   "projects": {
-    "C:\\Users\\toban\\Desktop\\proyecto\\WebApplication1.Web\\WebApplication1.Web\\WebApplication1.Web.csproj": {
+    "C:\\Users\\toban\\Desktop\\proyecto final\\WebApplication1.Web\\WebApplication1.Web\\WebApplication1.Web.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\toban\\Desktop\\proyecto\\WebApplication1.Web\\WebApplication1.Web\\WebApplication1.Web.csproj",
+        "projectUniqueName": "C:\\Users\\toban\\Desktop\\proyecto final\\WebApplication1.Web\\WebApplication1.Web\\WebApplication1.Web.csproj",
         "projectName": "WebApplication1.Web",
-        "projectPath": "C:\\Users\\toban\\Desktop\\proyecto\\WebApplication1.Web\\WebApplication1.Web\\WebApplication1.Web.csproj",
+        "projectPath": "C:\\Users\\toban\\Desktop\\proyecto final\\WebApplication1.Web\\WebApplication1.Web\\WebApplication1.Web.csproj",
         "packagesPath": "C:\\Users\\toban\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\toban\\Desktop\\proyecto\\WebApplication1.Web\\WebApplication1.Web\\obj\\",
+        "outputPath": "C:\\Users\\toban\\Desktop\\proyecto final\\WebApplication1.Web\\WebApplication1.Web\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\toban\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -45,6 +45,16 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.6, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
