@@ -11,6 +11,10 @@
       "RelativeMoniker": "D:0:0:{AA8EC8E3-A885-45AF-BB5B-F1C732A5B205}|WebApplication1.Web\\WebApplication1.Web.csproj|solutionrelative:webapplication1.web\\data\\dbobjects\\empleadodb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{AA8EC8E3-A885-45AF-BB5B-F1C732A5B205}|WebApplication1.Web\\WebApplication1.Web.csproj|c:\\users\\toban\\desktop\\proyecto final\\webapplication1.web\\webapplication1.web\\data\\entities\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA8EC8E3-A885-45AF-BB5B-F1C732A5B205}|WebApplication1.Web\\WebApplication1.Web.csproj|solutionrelative:webapplication1.web\\data\\entities\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{AA8EC8E3-A885-45AF-BB5B-F1C732A5B205}|WebApplication1.Web\\WebApplication1.Web.csproj|c:\\users\\toban\\desktop\\proyecto final\\webapplication1.web\\webapplication1.web\\data\\entities\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AA8EC8E3-A885-45AF-BB5B-F1C732A5B205}|WebApplication1.Web\\WebApplication1.Web.csproj|solutionrelative:webapplication1.web\\data\\entities\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -53,10 +57,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{AA8EC8E3-A885-45AF-BB5B-F1C732A5B205}|WebApplication1.Web\\WebApplication1.Web.csproj|c:\\users\\toban\\desktop\\proyecto final\\webapplication1.web\\webapplication1.web\\data\\models\\empleadomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AA8EC8E3-A885-45AF-BB5B-F1C732A5B205}|WebApplication1.Web\\WebApplication1.Web.csproj|solutionrelative:webapplication1.web\\data\\models\\empleadomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AA8EC8E3-A885-45AF-BB5B-F1C732A5B205}|WebApplication1.Web\\WebApplication1.Web.csproj|c:\\users\\toban\\desktop\\proyecto final\\webapplication1.web\\webapplication1.web\\data\\entities\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AA8EC8E3-A885-45AF-BB5B-F1C732A5B205}|WebApplication1.Web\\WebApplication1.Web.csproj|solutionrelative:webapplication1.web\\data\\entities\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -69,20 +69,12 @@
           "SelectedChildIndex": 2,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "EmpleadoSaveModel.cs",
-              "DocumentMoniker": "C:\\Users\\toban\\Desktop\\proyecto final\\WebApplication1.Web\\WebApplication1.Web\\Data\\Models\\EmpleadoSaveModel.cs",
-              "RelativeDocumentMoniker": "WebApplication1.Web\\Data\\Models\\EmpleadoSaveModel.cs",
-              "ToolTip": "C:\\Users\\toban\\Desktop\\proyecto final\\WebApplication1.Web\\WebApplication1.Web\\Data\\Models\\EmpleadoSaveModel.cs",
-              "RelativeToolTip": "WebApplication1.Web\\Data\\Models\\EmpleadoSaveModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAnAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-04T20:53:04.033Z"
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "EmpleadoUpdateModel.cs",
               "DocumentMoniker": "C:\\Users\\toban\\Desktop\\proyecto final\\WebApplication1.Web\\WebApplication1.Web\\Data\\Models\\EmpleadoUpdateModel.cs",
               "RelativeDocumentMoniker": "WebApplication1.Web\\Data\\Models\\EmpleadoUpdateModel.cs",
@@ -90,8 +82,7 @@
               "RelativeToolTip": "WebApplication1.Web\\Data\\Models\\EmpleadoUpdateModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-04T20:53:18.554Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-04T20:53:18.554Z"
             },
             {
               "$type": "Document",
@@ -101,14 +92,14 @@
               "RelativeDocumentMoniker": "WebApplication1.Web\\Data\\DBObjects\\ClienteDb.cs",
               "ToolTip": "C:\\Users\\toban\\Desktop\\proyecto final\\WebApplication1.Web\\WebApplication1.Web\\Data\\DBObjects\\ClienteDb.cs",
               "RelativeToolTip": "WebApplication1.Web\\Data\\DBObjects\\ClienteDb.cs",
-              "ViewState": "AQIAAA4AAAAAAAAAAAAQwCIAAAAAAAAA",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAxwEAAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-04T20:31:59.176Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "ClienteModel.cs",
               "DocumentMoniker": "C:\\Users\\toban\\Desktop\\proyecto final\\WebApplication1.Web\\WebApplication1.Web\\Data\\Models\\ClienteModel.cs",
               "RelativeDocumentMoniker": "WebApplication1.Web\\Data\\Models\\ClienteModel.cs",
@@ -120,7 +111,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Empleado.cs",
               "DocumentMoniker": "C:\\Users\\toban\\Desktop\\proyecto final\\WebApplication1.Web\\WebApplication1.Web\\Data\\Entities\\Empleado.cs",
               "RelativeDocumentMoniker": "WebApplication1.Web\\Data\\Entities\\Empleado.cs",
@@ -128,8 +119,7 @@
               "RelativeToolTip": "WebApplication1.Web\\Data\\Entities\\Empleado.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-04T19:51:20.525Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-04T19:51:20.525Z"
             },
             {
               "$type": "Document",
@@ -139,14 +129,39 @@
               "RelativeDocumentMoniker": "WebApplication1.Web\\Data\\DBObjects\\EmpleadoDb.cs",
               "ToolTip": "C:\\Users\\toban\\Desktop\\proyecto final\\WebApplication1.Web\\WebApplication1.Web\\Data\\DBObjects\\EmpleadoDb.cs",
               "RelativeToolTip": "WebApplication1.Web\\Data\\DBObjects\\EmpleadoDb.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAYwEMAAAAJAAAA",
+              "ViewState": "AQIAADQAAAAAAAAAAAAcwEQAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-04T21:07:09.282Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\toban\\Desktop\\proyecto final\\WebApplication1.Web\\WebApplication1.Web\\Data\\Entities\\Cliente.cs",
+              "RelativeDocumentMoniker": "WebApplication1.Web\\Data\\Entities\\Cliente.cs",
+              "ToolTip": "C:\\Users\\toban\\Desktop\\proyecto final\\WebApplication1.Web\\WebApplication1.Web\\Data\\Entities\\Cliente.cs",
+              "RelativeToolTip": "WebApplication1.Web\\Data\\Entities\\Cliente.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T19:50:43.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EmpleadoSaveModel.cs",
+              "DocumentMoniker": "C:\\Users\\toban\\Desktop\\proyecto final\\WebApplication1.Web\\WebApplication1.Web\\Data\\Models\\EmpleadoSaveModel.cs",
+              "RelativeDocumentMoniker": "WebApplication1.Web\\Data\\Models\\EmpleadoSaveModel.cs",
+              "ToolTip": "C:\\Users\\toban\\Desktop\\proyecto final\\WebApplication1.Web\\WebApplication1.Web\\Data\\Models\\EmpleadoSaveModel.cs",
+              "RelativeToolTip": "WebApplication1.Web\\Data\\Models\\EmpleadoSaveModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T20:53:04.033Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "ClienteUpdateModel.cs",
               "DocumentMoniker": "C:\\Users\\toban\\Desktop\\proyecto final\\WebApplication1.Web\\WebApplication1.Web\\Data\\Models\\ClienteUpdateModel.cs",
               "RelativeDocumentMoniker": "WebApplication1.Web\\Data\\Models\\ClienteUpdateModel.cs",
@@ -158,7 +173,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "ClienteSaveModel.cs",
               "DocumentMoniker": "C:\\Users\\toban\\Desktop\\proyecto final\\WebApplication1.Web\\WebApplication1.Web\\Data\\Models\\ClienteSaveModel.cs",
               "RelativeDocumentMoniker": "WebApplication1.Web\\Data\\Models\\ClienteSaveModel.cs",
@@ -170,7 +185,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "IEmpleadoDb.cs",
               "DocumentMoniker": "C:\\Users\\toban\\Desktop\\proyecto final\\WebApplication1.Web\\WebApplication1.Web\\Data\\Interfaces\\IEmpleadoDb.cs",
               "RelativeDocumentMoniker": "WebApplication1.Web\\Data\\Interfaces\\IEmpleadoDb.cs",
@@ -182,7 +197,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "IClienteDb.cs",
               "DocumentMoniker": "C:\\Users\\toban\\Desktop\\proyecto final\\WebApplication1.Web\\WebApplication1.Web\\Data\\Interfaces\\IClienteDb.cs",
               "RelativeDocumentMoniker": "WebApplication1.Web\\Data\\Interfaces\\IClienteDb.cs",
@@ -194,7 +209,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "ClienteDbException.cs",
               "DocumentMoniker": "C:\\Users\\toban\\Desktop\\proyecto final\\WebApplication1.Web\\WebApplication1.Web\\Data\\Exceptions\\ClienteDbException.cs",
               "RelativeDocumentMoniker": "WebApplication1.Web\\Data\\Exceptions\\ClienteDbException.cs",
@@ -206,7 +221,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "EmpleadoDbException.cs",
               "DocumentMoniker": "C:\\Users\\toban\\Desktop\\proyecto final\\WebApplication1.Web\\WebApplication1.Web\\Data\\Exceptions\\EmpleadoDbException.cs",
               "RelativeDocumentMoniker": "WebApplication1.Web\\Data\\Exceptions\\EmpleadoDbException.cs",
@@ -218,7 +233,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "EmpleadoModel.cs",
               "DocumentMoniker": "C:\\Users\\toban\\Desktop\\proyecto final\\WebApplication1.Web\\WebApplication1.Web\\Data\\Models\\EmpleadoModel.cs",
               "RelativeDocumentMoniker": "WebApplication1.Web\\Data\\Models\\EmpleadoModel.cs",
@@ -227,18 +242,6 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-04T20:27:41.798Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Cliente.cs",
-              "DocumentMoniker": "C:\\Users\\toban\\Desktop\\proyecto final\\WebApplication1.Web\\WebApplication1.Web\\Data\\Entities\\Cliente.cs",
-              "RelativeDocumentMoniker": "WebApplication1.Web\\Data\\Entities\\Cliente.cs",
-              "ToolTip": "C:\\Users\\toban\\Desktop\\proyecto final\\WebApplication1.Web\\WebApplication1.Web\\Data\\Entities\\Cliente.cs",
-              "RelativeToolTip": "WebApplication1.Web\\Data\\Entities\\Cliente.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAnAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-04T19:50:43.643Z"
             }
           ]
         }

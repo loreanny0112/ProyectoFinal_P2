@@ -4,6 +4,7 @@ using WebApplication1.Web.Data.Entities;
 using WebApplication1.Web.Data.Exceptions;
 using WebApplication1.Web.Data.Interfaces;
 using WebApplication1.Web.Data.Models;
+
 namespace WebApplication1.Web.Data.DBObjects
 {
     public class EmpleadoDb : IEmpleadoDb
