@@ -2,7 +2,7 @@
 {
     public abstract class BaseEntity
     {
-       public char Name { get; set; }
-       public decimal Total { get; set; }
+       public char Nombre { get; set; }
+      
     }
 }

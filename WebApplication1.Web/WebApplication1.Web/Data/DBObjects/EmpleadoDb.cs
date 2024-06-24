@@ -1,9 +1,9 @@
-﻿using RestauranteMaMonolitica.web.Data.Models;
+﻿using WebApplication1.Web.Data.Models;
 using WebApplication1.Web.Data.Context;
 using WebApplication1.Web.Data.Entities;
 using WebApplication1.Web.Data.Exceptions;
 using WebApplication1.Web.Data.Interfaces;
-using WebApplication1.Web.Data.Models;
+using WebApplication1.Web.Data.Models.Empleado;
 
 namespace WebApplication1.Web.Data.DBObjects
 {
@@ -15,21 +15,23 @@ namespace WebApplication1.Web.Data.DBObjects
         {
             this.context = context;
         }
-        public EmpleadoModel GetEmpleado(int IdEmpleado)
+        public EmpleadoGetModel GetEmpleado(int IdEmpleado)
         {
             var empleado = this.context.Empleados.Find(IdEmpleado);
-            EmpleadoModel empleadoModel = new EmpleadoModel()
+            EmpleadoGetModel empleadoModel = new EmpleadoGetModel()
             {
+                IdEmpleado = empleado.IdEmpleado,
                 Nombre = empleado.Nombre,
                 Cargo = empleado.Cargo,
             };
             return empleadoModel;
         }
 
-        public List<EmpleadoModel> GetEmpleados()
+        public List<EmpleadoGetModel> GetEmpleados()
         {
-            return this.context.Empleados.Select(empleado => new EmpleadoModel()
+            return this.context.Empleados.Select(empleado => new EmpleadoGetModel()
             {
+                IdEmpleado = empleado.IdEmpleado,
                 Nombre = empleado.Nombre,
                 Cargo = empleado.Cargo,
             }).ToList();
@@ -40,13 +42,17 @@ namespace WebApplication1.Web.Data.DBObjects
             throw new NotImplementedException();
         }
 
+        public void RemoveEmpleado(EmpleadoRemoveModel empleadoRemove)
+        {
+            throw new NotImplementedException();
+        }
+
         public void saveEmpleado(EmpleadoSaveModel empleadoSave)
         {
             Empleado empleado = new Empleado() 
 
             {
-
-               
+                IdEmpleado = empleadoSave.IdEmpleado,
                 Nombre = empleadoSave.Nombre,
                 Cargo = empleadoSave.Cargo,
             };
@@ -61,6 +67,7 @@ namespace WebApplication1.Web.Data.DBObjects
             {
                 throw new EmpleadoDbException("El empleado no se encuentra registrado.");
             }
+            empleadoToUpdate.IdEmpleado = updateModel.IdEmpleado;
             empleadoToUpdate.Nombre = updateModel.Nombre;
             empleadoToUpdate.Cargo = updateModel.Cargo;
 

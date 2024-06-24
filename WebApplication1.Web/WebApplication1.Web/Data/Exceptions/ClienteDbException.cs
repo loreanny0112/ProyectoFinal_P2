@@ -1,4 +1,4 @@
-﻿namespace RestauranteMaMonolitica.web.Data.Exceptions
+﻿namespace WebApplication1.Web.Data.Exceptions
 {
     public class ClienteDbException : Exception
     {

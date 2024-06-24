@@ -1,9 +1,10 @@
-﻿using RestauranteMaMonolitica.web.Data.Models;
+﻿using WebApplication1.Web.Data.Models;
 using WebApplication1.Web.Data.Context;
 using WebApplication1.Web.Data.Entities;
 using WebApplication1.Web.Data.Exceptions;
 using WebApplication1.Web.Data.Interfaces;
 using WebApplication1.Web.Data.Models;
+using WebApplication1.Web.Data.Models.Cliente;
 
 namespace WebApplication1.Web.Data.DBObjects
 {
@@ -15,11 +16,13 @@ namespace WebApplication1.Web.Data.DBObjects
         {
             this.context = context;
         }
-        public ClienteModel GetCliente(int IdCliente)
+        public ClienteGetModel GetCliente(int IdCliente)
         {
             var cliente = this.context.Clientes.Find(IdCliente);
-            ClienteModel clienteModel = new ClienteModel()
+            ClienteGetModel clienteModel = new ClienteGetModel()
             {
+               
+                IdCliente = cliente.IdCliente,
                 Nombre = cliente.Nombre,
                 Telefono = cliente.Telefono,
                 Email = cliente.Email,
@@ -27,10 +30,11 @@ namespace WebApplication1.Web.Data.DBObjects
             return clienteModel;
         }
 
-            public List<ClienteModel> GetClientes()
+            public List<ClienteGetModel> GetClientes()
             {
-                return this.context.Clientes.Select(cliente => new ClienteModel()
+                return this.context.Clientes.Select(cliente => new ClienteGetModel()
                 {
+                    IdCliente = cliente.IdCliente,
                     Nombre = cliente.Nombre,
                     Telefono = cliente.Telefono,
                     Email = cliente.Email,
@@ -43,11 +47,17 @@ namespace WebApplication1.Web.Data.DBObjects
             throw new NotImplementedException();
         }
 
+        public void RemoveCliente(ClienteRemoveModel clienteRemove)
+        {
+            Cliente clienteToDelete = this.context.Clientes.Find(clienteRemove.IdCliente);
+        }
+
         public void saveCliente(ClienteSaveModel clienteSave)
         {
             Cliente cliente = new Cliente()
 
             {
+                IdCliente = clienteSave.IdCliente,
                 Nombre = clienteSave.Nombre,
                 Telefono = clienteSave.Telefono,
                 Email = clienteSave.Email,
@@ -63,6 +73,7 @@ namespace WebApplication1.Web.Data.DBObjects
             {
                 throw new EmpleadoDbException("El cliente no se encuentra registrado.");
             }
+            clienteToUpdate.IdCliente = updateModel.IdCliente;
             clienteToUpdate.Nombre = updateModel.Nombre;
             clienteToUpdate.Telefono = updateModel.Telefono;
             clienteToUpdate.Email = updateModel.Email;

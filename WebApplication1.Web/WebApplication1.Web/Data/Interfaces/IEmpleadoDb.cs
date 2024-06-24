@@ -1,6 +1,6 @@
-﻿using RestauranteMaMonolitica.web.Data.Models;
+﻿using WebApplication1.Web.Data.Models;
 using WebApplication1.Web.Data.Entities;
-using WebApplication1.Web.Data.Models;
+using WebApplication1.Web.Data.Models.Empleado;
 
 namespace WebApplication1.Web.Data.Interfaces
 {
@@ -9,10 +9,10 @@ namespace WebApplication1.Web.Data.Interfaces
         void saveEmpleado(EmpleadoSaveModel empleado);
         void UpdateEmpleado(EmpleadoUpdateModel updateModel);
 
-        void RemoveEmpleado();
+        void RemoveEmpleado(EmpleadoRemoveModel empleadoRemove);
 
-        List<EmpleadoModel> GetEmpleados();
+        List<EmpleadoGetModel> GetEmpleados();
 
-        EmpleadoModel GetEmpleado(int IdEmpleado);
+        EmpleadoGetModel GetEmpleado(int IdEmpleado);
     }
 }
