@@ -3,8 +3,8 @@
     public class ClienteGetModel
     {
         public int IdCliente { get; set; }
-        public char Nombre { get; set; }
-        public char Telefono { get; set; }
-        public char Email { get; set; }
+        public string? Nombre { get; set; }
+        public string? Telefono { get; set; }
+        public string? Email { get; set; }
     }
 }

@@ -4,7 +4,7 @@ namespace WebApplication1.Web.Data.Models.Empleado
 {
     public class EmpleadoSaveModel : EmpleadoBaseModel
     {
-        public char Nombre { get; internal set; }
-        public char Cargo { get; set; }
+        public string? Nombre { get; internal set; }
+        public string? Cargo { get; set; }
     }
 }

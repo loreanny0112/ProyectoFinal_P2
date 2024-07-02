@@ -2,8 +2,8 @@
 {
     public abstract class ModelBase
     {
-        public int ChangeNombre { get; set; }
-        public char Telefono { get; set; }
-        public char Email { get; set; }
+        public string? ChangeNombre { get; set; }
+        public string? Telefono { get; set; }
+        public string? Email { get; set; }
     }
 }

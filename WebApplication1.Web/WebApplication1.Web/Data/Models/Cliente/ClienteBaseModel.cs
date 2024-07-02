@@ -3,7 +3,8 @@
     public abstract class ClienteBaseModel : ModelBase
     {
         public int IdCliente { get; set; }
-        public char Telefono { get; set; }
-        public char Email { get; set; }
+        public string? Nombre { get; set; }
+        public string? Telefono { get; set; }
+        public string? Email { get; set; }
     }
 }

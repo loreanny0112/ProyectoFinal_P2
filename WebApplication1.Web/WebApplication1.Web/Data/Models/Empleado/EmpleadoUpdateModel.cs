@@ -6,7 +6,7 @@ namespace WebApplication1.Web.Data.Models.Empleado
     public class EmpleadoUpdateModel : EmpleadoBaseModel
     {
         public int IdEmpleado { get; set; }
-        public char Nombre { get; set; }
-        public char Cargo { get; set; }
+        public string? Nombre { get; set; }
+        public string? Cargo { get; set; }
     }
 }

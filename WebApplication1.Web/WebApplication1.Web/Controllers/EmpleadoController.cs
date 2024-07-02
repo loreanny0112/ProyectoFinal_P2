@@ -1,31 +1,40 @@
 ﻿using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using WebApplication1.Web.BL.Interfaces;
 using WebApplication1.Web.Data.Context;
 using WebApplication1.Web.Data.DBObjects;
 using WebApplication1.Web.Data.Interfaces;
+using WebApplication1.Web.Data.Models.Cliente;
 using WebApplication1.Web.Data.Models.Empleado;
 
 namespace WebApplication1.Web.Controllers
 {
     public class EmpleadoController : Controller
     {
-        private readonly IEmpleadoDb empleadoDb;
+        private readonly IClienteService clienteService;
+        private IEmpleadoService empleadoService;
 
-        public EmpleadoController(IEmpleadoDb empleadoDb)
+        public EmpleadoController(IEmpleadoService empleadoService)
         {
-            this.empleadoDb = empleadoDb;
+            this.empleadoService = empleadoService;
         }
         // GET: EmpleadoController1
         public ActionResult Index()
         {
-            var empleados = this.empleadoDb.GetEmpleados();
-            return View(empleados);
+            var result = this.empleadoService.GetEmpleados();
+            if (!result.Success)
+
+                ViewBag.Message = result.Message;
+
+            var clientes = (List<EmpleadoGetModel>)result.Data;
+
+            return View(clientes);
         }
 
         // GET: EmpleadoController1/Details/5
         public ActionResult Details(int id)
         {
-            var empleado = this.empleadoDb.GetEmpleado(id);
+            var empleado = this.empleadoService.GetEmpleados(id);
             return View(empleado);
         }
 
@@ -42,7 +51,7 @@ namespace WebApplication1.Web.Controllers
         {
             try
             {
-                this.empleadoDb.saveEmpleado(empleadoSave);
+                this.empleadoService.SaveEmpleados(empleadoSave);
                 return RedirectToAction(nameof(Index));
             }
             catch
@@ -54,7 +63,7 @@ namespace WebApplication1.Web.Controllers
         // GET: EmpleadoController1/Edit/5
         public ActionResult Edit(int id)
         {
-            var empleado = this.empleadoDb.GetEmpleado(id);
+            var empleado = this.empleadoService.GetEmpleados(id);
             return View(empleado);
         }
 
@@ -65,7 +74,7 @@ namespace WebApplication1.Web.Controllers
         {
             try
             {
-                this.empleadoDb.UpdateEmpleado(empleadoUpdate);
+                this.empleadoService.UpdateEmpleados(empleadoUpdate);
                 return RedirectToAction(nameof(Index));
             }
             catch

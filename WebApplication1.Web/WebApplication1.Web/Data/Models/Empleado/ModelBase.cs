@@ -2,8 +2,8 @@
 {
     public abstract class ModelBase
     {
-        public char ChangeNombre { get; set; }
+        public string? ChangeNombre { get; set; }
 
-        public char Cargo { get; set; }
+        public string? Cargo { get; set; }
     }
 }

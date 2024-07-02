@@ -4,9 +4,9 @@
     {
 
     public int IdCliente { get; set; }
-    public char NombreDelete { get; set; }
-    public char TelefonoDelete { get; set; }
-    public char EmailDelete { get; set; }
+    public string? NombreDelete { get; set; }
+    public string? TelefonoDelete { get; set; }
+    public string? EmailDelete { get; set; }
 
     }
 }

@@ -3,28 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\toban\\Desktop\\proyecto final\\WebApplication1.Web\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AA8EC8E3-A885-45AF-BB5B-F1C732A5B205}|WebApplication1.Web\\WebApplication1.Web.csproj|c:\\users\\toban\\desktop\\proyecto final\\webapplication1.web\\webapplication1.web\\data\\models\\cliente\\modelbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AA8EC8E3-A885-45AF-BB5B-F1C732A5B205}|WebApplication1.Web\\WebApplication1.Web.csproj|solutionrelative:webapplication1.web\\data\\models\\cliente\\modelbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AA8EC8E3-A885-45AF-BB5B-F1C732A5B205}|WebApplication1.Web\\WebApplication1.Web.csproj|c:\\users\\toban\\desktop\\proyecto final\\webapplication1.web\\webapplication1.web\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA8EC8E3-A885-45AF-BB5B-F1C732A5B205}|WebApplication1.Web\\WebApplication1.Web.csproj|solutionrelative:webapplication1.web\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA8EC8E3-A885-45AF-BB5B-F1C732A5B205}|WebApplication1.Web\\WebApplication1.Web.csproj|c:\\users\\toban\\desktop\\proyecto final\\webapplication1.web\\webapplication1.web\\views\\empleado\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AA8EC8E3-A885-45AF-BB5B-F1C732A5B205}|WebApplication1.Web\\WebApplication1.Web.csproj|solutionrelative:webapplication1.web\\views\\empleado\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA8EC8E3-A885-45AF-BB5B-F1C732A5B205}|WebApplication1.Web\\WebApplication1.Web.csproj|c:\\users\\toban\\desktop\\proyecto final\\webapplication1.web\\webapplication1.web\\views\\cliente\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AA8EC8E3-A885-45AF-BB5B-F1C732A5B205}|WebApplication1.Web\\WebApplication1.Web.csproj|solutionrelative:webapplication1.web\\views\\cliente\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AA8EC8E3-A885-45AF-BB5B-F1C732A5B205}|WebApplication1.Web\\WebApplication1.Web.csproj|c:\\users\\toban\\desktop\\proyecto final\\webapplication1.web\\webapplication1.web\\views\\cliente\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{AA8EC8E3-A885-45AF-BB5B-F1C732A5B205}|WebApplication1.Web\\WebApplication1.Web.csproj|solutionrelative:webapplication1.web\\views\\cliente\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AA8EC8E3-A885-45AF-BB5B-F1C732A5B205}|WebApplication1.Web\\WebApplication1.Web.csproj|c:\\users\\toban\\desktop\\proyecto final\\webapplication1.web\\webapplication1.web\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AA8EC8E3-A885-45AF-BB5B-F1C732A5B205}|WebApplication1.Web\\WebApplication1.Web.csproj|solutionrelative:webapplication1.web\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AA8EC8E3-A885-45AF-BB5B-F1C732A5B205}|WebApplication1.Web\\WebApplication1.Web.csproj|c:\\users\\toban\\desktop\\proyecto final\\webapplication1.web\\webapplication1.web\\controllers\\empleadocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AA8EC8E3-A885-45AF-BB5B-F1C732A5B205}|WebApplication1.Web\\WebApplication1.Web.csproj|solutionrelative:webapplication1.web\\controllers\\empleadocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AA8EC8E3-A885-45AF-BB5B-F1C732A5B205}|WebApplication1.Web\\WebApplication1.Web.csproj|c:\\users\\toban\\desktop\\proyecto final\\webapplication1.web\\webapplication1.web\\views\\empleado\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{AA8EC8E3-A885-45AF-BB5B-F1C732A5B205}|WebApplication1.Web\\WebApplication1.Web.csproj|solutionrelative:webapplication1.web\\views\\empleado\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AA8EC8E3-A885-45AF-BB5B-F1C732A5B205}|WebApplication1.Web\\WebApplication1.Web.csproj|c:\\users\\toban\\desktop\\proyecto final\\webapplication1.web\\webapplication1.web\\views\\cliente\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{AA8EC8E3-A885-45AF-BB5B-F1C732A5B205}|WebApplication1.Web\\WebApplication1.Web.csproj|solutionrelative:webapplication1.web\\views\\cliente\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{AA8EC8E3-A885-45AF-BB5B-F1C732A5B205}|WebApplication1.Web\\WebApplication1.Web.csproj|c:\\users\\toban\\desktop\\proyecto final\\webapplication1.web\\webapplication1.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA8EC8E3-A885-45AF-BB5B-F1C732A5B205}|WebApplication1.Web\\WebApplication1.Web.csproj|solutionrelative:webapplication1.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AA8EC8E3-A885-45AF-BB5B-F1C732A5B205}|WebApplication1.Web\\WebApplication1.Web.csproj|c:\\users\\toban\\desktop\\proyecto final\\webapplication1.web\\webapplication1.web\\views\\cliente\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -35,28 +31,16 @@
       "RelativeMoniker": "D:0:0:{AA8EC8E3-A885-45AF-BB5B-F1C732A5B205}|WebApplication1.Web\\WebApplication1.Web.csproj|solutionrelative:webapplication1.web\\views\\empleado\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AA8EC8E3-A885-45AF-BB5B-F1C732A5B205}|WebApplication1.Web\\WebApplication1.Web.csproj|c:\\users\\toban\\desktop\\proyecto final\\webapplication1.web\\webapplication1.web\\data\\entities\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AA8EC8E3-A885-45AF-BB5B-F1C732A5B205}|WebApplication1.Web\\WebApplication1.Web.csproj|solutionrelative:webapplication1.web\\data\\entities\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AA8EC8E3-A885-45AF-BB5B-F1C732A5B205}|WebApplication1.Web\\WebApplication1.Web.csproj|c:\\users\\toban\\desktop\\proyecto final\\webapplication1.web\\webapplication1.web\\bl\\services\\clienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA8EC8E3-A885-45AF-BB5B-F1C732A5B205}|WebApplication1.Web\\WebApplication1.Web.csproj|solutionrelative:webapplication1.web\\bl\\services\\clienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AA8EC8E3-A885-45AF-BB5B-F1C732A5B205}|WebApplication1.Web\\WebApplication1.Web.csproj|c:\\users\\toban\\desktop\\proyecto final\\webapplication1.web\\webapplication1.web\\views\\cliente\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{AA8EC8E3-A885-45AF-BB5B-F1C732A5B205}|WebApplication1.Web\\WebApplication1.Web.csproj|solutionrelative:webapplication1.web\\views\\cliente\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AA8EC8E3-A885-45AF-BB5B-F1C732A5B205}|WebApplication1.Web\\WebApplication1.Web.csproj|c:\\users\\toban\\desktop\\proyecto final\\webapplication1.web\\webapplication1.web\\views\\empleado\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{AA8EC8E3-A885-45AF-BB5B-F1C732A5B205}|WebApplication1.Web\\WebApplication1.Web.csproj|solutionrelative:webapplication1.web\\views\\empleado\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{AA8EC8E3-A885-45AF-BB5B-F1C732A5B205}|WebApplication1.Web\\WebApplication1.Web.csproj|c:\\users\\toban\\desktop\\proyecto final\\webapplication1.web\\webapplication1.web\\views\\cliente\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AA8EC8E3-A885-45AF-BB5B-F1C732A5B205}|WebApplication1.Web\\WebApplication1.Web.csproj|solutionrelative:webapplication1.web\\views\\cliente\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AA8EC8E3-A885-45AF-BB5B-F1C732A5B205}|WebApplication1.Web\\WebApplication1.Web.csproj|c:\\users\\toban\\desktop\\proyecto final\\webapplication1.web\\webapplication1.web\\data\\dbobjects\\empleadodb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AA8EC8E3-A885-45AF-BB5B-F1C732A5B205}|WebApplication1.Web\\WebApplication1.Web.csproj|solutionrelative:webapplication1.web\\data\\dbobjects\\empleadodb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AA8EC8E3-A885-45AF-BB5B-F1C732A5B205}|WebApplication1.Web\\WebApplication1.Web.csproj|c:\\users\\toban\\desktop\\proyecto final\\webapplication1.web\\webapplication1.web\\views\\empleado\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{AA8EC8E3-A885-45AF-BB5B-F1C732A5B205}|WebApplication1.Web\\WebApplication1.Web.csproj|solutionrelative:webapplication1.web\\views\\empleado\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AA8EC8E3-A885-45AF-BB5B-F1C732A5B205}|WebApplication1.Web\\WebApplication1.Web.csproj|c:\\users\\toban\\desktop\\proyecto final\\webapplication1.web\\webapplication1.web\\data\\exceptions\\clientedbexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AA8EC8E3-A885-45AF-BB5B-F1C732A5B205}|WebApplication1.Web\\WebApplication1.Web.csproj|solutionrelative:webapplication1.web\\data\\exceptions\\clientedbexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AA8EC8E3-A885-45AF-BB5B-F1C732A5B205}|WebApplication1.Web\\WebApplication1.Web.csproj|c:\\users\\toban\\desktop\\proyecto final\\webapplication1.web\\webapplication1.web\\data\\dbobjects\\clientedb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -75,59 +59,115 @@
       "RelativeMoniker": "D:0:0:{AA8EC8E3-A885-45AF-BB5B-F1C732A5B205}|WebApplication1.Web\\WebApplication1.Web.csproj|solutionrelative:webapplication1.web\\data\\models\\empleado\\empleadosavemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AA8EC8E3-A885-45AF-BB5B-F1C732A5B205}|WebApplication1.Web\\WebApplication1.Web.csproj|c:\\users\\toban\\desktop\\proyecto final\\webapplication1.web\\webapplication1.web\\data\\models\\empleado\\empleadogetmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AA8EC8E3-A885-45AF-BB5B-F1C732A5B205}|WebApplication1.Web\\WebApplication1.Web.csproj|solutionrelative:webapplication1.web\\data\\models\\empleado\\empleadogetmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{AA8EC8E3-A885-45AF-BB5B-F1C732A5B205}|WebApplication1.Web\\WebApplication1.Web.csproj|c:\\users\\toban\\desktop\\proyecto final\\webapplication1.web\\webapplication1.web\\data\\models\\empleado\\empleadoremovemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AA8EC8E3-A885-45AF-BB5B-F1C732A5B205}|WebApplication1.Web\\WebApplication1.Web.csproj|solutionrelative:webapplication1.web\\data\\models\\empleado\\empleadoremovemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA8EC8E3-A885-45AF-BB5B-F1C732A5B205}|WebApplication1.Web\\WebApplication1.Web.csproj|c:\\users\\toban\\desktop\\proyecto final\\webapplication1.web\\webapplication1.web\\data\\models\\empleado\\empleadogetmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA8EC8E3-A885-45AF-BB5B-F1C732A5B205}|WebApplication1.Web\\WebApplication1.Web.csproj|solutionrelative:webapplication1.web\\data\\models\\empleado\\empleadogetmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AA8EC8E3-A885-45AF-BB5B-F1C732A5B205}|WebApplication1.Web\\WebApplication1.Web.csproj|c:\\users\\toban\\desktop\\proyecto final\\webapplication1.web\\webapplication1.web\\data\\models\\empleado\\empleadobasemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AA8EC8E3-A885-45AF-BB5B-F1C732A5B205}|WebApplication1.Web\\WebApplication1.Web.csproj|solutionrelative:webapplication1.web\\data\\models\\empleado\\empleadobasemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AA8EC8E3-A885-45AF-BB5B-F1C732A5B205}|WebApplication1.Web\\WebApplication1.Web.csproj|c:\\users\\toban\\desktop\\proyecto final\\webapplication1.web\\webapplication1.web\\data\\models\\cliente\\clientebasemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AA8EC8E3-A885-45AF-BB5B-F1C732A5B205}|WebApplication1.Web\\WebApplication1.Web.csproj|solutionrelative:webapplication1.web\\data\\models\\cliente\\clientebasemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AA8EC8E3-A885-45AF-BB5B-F1C732A5B205}|WebApplication1.Web\\WebApplication1.Web.csproj|c:\\users\\toban\\desktop\\proyecto final\\webapplication1.web\\webapplication1.web\\data\\models\\cliente\\clientegetmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AA8EC8E3-A885-45AF-BB5B-F1C732A5B205}|WebApplication1.Web\\WebApplication1.Web.csproj|solutionrelative:webapplication1.web\\data\\models\\cliente\\clientegetmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AA8EC8E3-A885-45AF-BB5B-F1C732A5B205}|WebApplication1.Web\\WebApplication1.Web.csproj|c:\\users\\toban\\desktop\\proyecto final\\webapplication1.web\\webapplication1.web\\data\\models\\cliente\\clienteremovemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AA8EC8E3-A885-45AF-BB5B-F1C732A5B205}|WebApplication1.Web\\WebApplication1.Web.csproj|solutionrelative:webapplication1.web\\data\\models\\cliente\\clienteremovemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AA8EC8E3-A885-45AF-BB5B-F1C732A5B205}|WebApplication1.Web\\WebApplication1.Web.csproj|c:\\users\\toban\\desktop\\proyecto final\\webapplication1.web\\webapplication1.web\\data\\models\\cliente\\clientesavemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AA8EC8E3-A885-45AF-BB5B-F1C732A5B205}|WebApplication1.Web\\WebApplication1.Web.csproj|solutionrelative:webapplication1.web\\data\\models\\cliente\\clientesavemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AA8EC8E3-A885-45AF-BB5B-F1C732A5B205}|WebApplication1.Web\\WebApplication1.Web.csproj|c:\\users\\toban\\desktop\\proyecto final\\webapplication1.web\\webapplication1.web\\data\\models\\cliente\\modelbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA8EC8E3-A885-45AF-BB5B-F1C732A5B205}|WebApplication1.Web\\WebApplication1.Web.csproj|solutionrelative:webapplication1.web\\data\\models\\cliente\\modelbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AA8EC8E3-A885-45AF-BB5B-F1C732A5B205}|WebApplication1.Web\\WebApplication1.Web.csproj|c:\\users\\toban\\desktop\\proyecto final\\webapplication1.web\\webapplication1.web\\data\\models\\cliente\\clienteupdatemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AA8EC8E3-A885-45AF-BB5B-F1C732A5B205}|WebApplication1.Web\\WebApplication1.Web.csproj|solutionrelative:webapplication1.web\\data\\models\\cliente\\clienteupdatemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AA8EC8E3-A885-45AF-BB5B-F1C732A5B205}|WebApplication1.Web\\WebApplication1.Web.csproj|c:\\users\\toban\\desktop\\proyecto final\\webapplication1.web\\webapplication1.web\\data\\context\\restaurantecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AA8EC8E3-A885-45AF-BB5B-F1C732A5B205}|WebApplication1.Web\\WebApplication1.Web.csproj|solutionrelative:webapplication1.web\\data\\context\\restaurantecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AA8EC8E3-A885-45AF-BB5B-F1C732A5B205}|WebApplication1.Web\\WebApplication1.Web.csproj|c:\\users\\toban\\desktop\\proyecto final\\webapplication1.web\\webapplication1.web\\data\\models\\cliente\\clientesavemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA8EC8E3-A885-45AF-BB5B-F1C732A5B205}|WebApplication1.Web\\WebApplication1.Web.csproj|solutionrelative:webapplication1.web\\data\\models\\cliente\\clientesavemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AA8EC8E3-A885-45AF-BB5B-F1C732A5B205}|WebApplication1.Web\\WebApplication1.Web.csproj|c:\\users\\toban\\desktop\\proyecto final\\webapplication1.web\\webapplication1.web\\data\\interfaces\\iempleadodb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AA8EC8E3-A885-45AF-BB5B-F1C732A5B205}|WebApplication1.Web\\WebApplication1.Web.csproj|solutionrelative:webapplication1.web\\data\\interfaces\\iempleadodb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AA8EC8E3-A885-45AF-BB5B-F1C732A5B205}|WebApplication1.Web\\WebApplication1.Web.csproj|c:\\users\\toban\\desktop\\proyecto final\\webapplication1.web\\webapplication1.web\\data\\models\\cliente\\clienteremovemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA8EC8E3-A885-45AF-BB5B-F1C732A5B205}|WebApplication1.Web\\WebApplication1.Web.csproj|solutionrelative:webapplication1.web\\data\\models\\cliente\\clienteremovemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AA8EC8E3-A885-45AF-BB5B-F1C732A5B205}|WebApplication1.Web\\WebApplication1.Web.csproj|c:\\users\\toban\\desktop\\proyecto final\\webapplication1.web\\webapplication1.web\\data\\interfaces\\iclientedb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AA8EC8E3-A885-45AF-BB5B-F1C732A5B205}|WebApplication1.Web\\WebApplication1.Web.csproj|solutionrelative:webapplication1.web\\data\\interfaces\\iclientedb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AA8EC8E3-A885-45AF-BB5B-F1C732A5B205}|WebApplication1.Web\\WebApplication1.Web.csproj|c:\\users\\toban\\desktop\\proyecto final\\webapplication1.web\\webapplication1.web\\data\\models\\cliente\\clientegetmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA8EC8E3-A885-45AF-BB5B-F1C732A5B205}|WebApplication1.Web\\WebApplication1.Web.csproj|solutionrelative:webapplication1.web\\data\\models\\cliente\\clientegetmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA8EC8E3-A885-45AF-BB5B-F1C732A5B205}|WebApplication1.Web\\WebApplication1.Web.csproj|c:\\users\\toban\\desktop\\proyecto final\\webapplication1.web\\webapplication1.web\\data\\models\\cliente\\clientebasemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA8EC8E3-A885-45AF-BB5B-F1C732A5B205}|WebApplication1.Web\\WebApplication1.Web.csproj|solutionrelative:webapplication1.web\\data\\models\\cliente\\clientebasemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AA8EC8E3-A885-45AF-BB5B-F1C732A5B205}|WebApplication1.Web\\WebApplication1.Web.csproj|c:\\users\\toban\\desktop\\proyecto final\\webapplication1.web\\webapplication1.web\\data\\entities\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AA8EC8E3-A885-45AF-BB5B-F1C732A5B205}|WebApplication1.Web\\WebApplication1.Web.csproj|solutionrelative:webapplication1.web\\data\\entities\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\toban\\AppData\\Local\\Temp\\.vsdbgsrc\\2c886353c54f8519ed19f5eca68a3813312188dbad5fce1d1ea5e48a0c74ff08\\Views_Cliente_Index.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AA8EC8E3-A885-45AF-BB5B-F1C732A5B205}|WebApplication1.Web\\WebApplication1.Web.csproj|c:\\users\\toban\\desktop\\proyecto final\\webapplication1.web\\webapplication1.web\\data\\entities\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA8EC8E3-A885-45AF-BB5B-F1C732A5B205}|WebApplication1.Web\\WebApplication1.Web.csproj|solutionrelative:webapplication1.web\\data\\entities\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA8EC8E3-A885-45AF-BB5B-F1C732A5B205}|WebApplication1.Web\\WebApplication1.Web.csproj|c:\\users\\toban\\desktop\\proyecto final\\webapplication1.web\\webapplication1.web\\controllers\\empleadocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA8EC8E3-A885-45AF-BB5B-F1C732A5B205}|WebApplication1.Web\\WebApplication1.Web.csproj|solutionrelative:webapplication1.web\\controllers\\empleadocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA8EC8E3-A885-45AF-BB5B-F1C732A5B205}|WebApplication1.Web\\WebApplication1.Web.csproj|c:\\users\\toban\\desktop\\proyecto final\\webapplication1.web\\webapplication1.web\\data\\exceptions\\clientedbexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA8EC8E3-A885-45AF-BB5B-F1C732A5B205}|WebApplication1.Web\\WebApplication1.Web.csproj|solutionrelative:webapplication1.web\\data\\exceptions\\clientedbexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA8EC8E3-A885-45AF-BB5B-F1C732A5B205}|WebApplication1.Web\\WebApplication1.Web.csproj|c:\\users\\toban\\desktop\\proyecto final\\webapplication1.web\\webapplication1.web\\views\\empleado\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AA8EC8E3-A885-45AF-BB5B-F1C732A5B205}|WebApplication1.Web\\WebApplication1.Web.csproj|solutionrelative:webapplication1.web\\views\\empleado\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA8EC8E3-A885-45AF-BB5B-F1C732A5B205}|WebApplication1.Web\\WebApplication1.Web.csproj|c:\\users\\toban\\desktop\\proyecto final\\webapplication1.web\\webapplication1.web\\bl\\interfaces\\iclienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA8EC8E3-A885-45AF-BB5B-F1C732A5B205}|WebApplication1.Web\\WebApplication1.Web.csproj|solutionrelative:webapplication1.web\\bl\\interfaces\\iclienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA8EC8E3-A885-45AF-BB5B-F1C732A5B205}|WebApplication1.Web\\WebApplication1.Web.csproj|c:\\users\\toban\\desktop\\proyecto final\\webapplication1.web\\webapplication1.web\\data\\context\\restaurantecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA8EC8E3-A885-45AF-BB5B-F1C732A5B205}|WebApplication1.Web\\WebApplication1.Web.csproj|solutionrelative:webapplication1.web\\data\\context\\restaurantecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AA8EC8E3-A885-45AF-BB5B-F1C732A5B205}|WebApplication1.Web\\WebApplication1.Web.csproj|c:\\users\\toban\\desktop\\proyecto final\\webapplication1.web\\webapplication1.web\\data\\core\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AA8EC8E3-A885-45AF-BB5B-F1C732A5B205}|WebApplication1.Web\\WebApplication1.Web.csproj|solutionrelative:webapplication1.web\\data\\core\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA8EC8E3-A885-45AF-BB5B-F1C732A5B205}|WebApplication1.Web\\WebApplication1.Web.csproj|c:\\users\\toban\\desktop\\proyecto final\\webapplication1.web\\webapplication1.web\\bl\\interfaces\\iempleadoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA8EC8E3-A885-45AF-BB5B-F1C732A5B205}|WebApplication1.Web\\WebApplication1.Web.csproj|solutionrelative:webapplication1.web\\bl\\interfaces\\iempleadoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA8EC8E3-A885-45AF-BB5B-F1C732A5B205}|WebApplication1.Web\\WebApplication1.Web.csproj|c:\\users\\toban\\desktop\\proyecto final\\webapplication1.web\\webapplication1.web\\data\\interfaces\\iclientedb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA8EC8E3-A885-45AF-BB5B-F1C732A5B205}|WebApplication1.Web\\WebApplication1.Web.csproj|solutionrelative:webapplication1.web\\data\\interfaces\\iclientedb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA8EC8E3-A885-45AF-BB5B-F1C732A5B205}|WebApplication1.Web\\WebApplication1.Web.csproj|c:\\users\\toban\\desktop\\proyecto final\\webapplication1.web\\webapplication1.web\\bl\\services\\empleadoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA8EC8E3-A885-45AF-BB5B-F1C732A5B205}|WebApplication1.Web\\WebApplication1.Web.csproj|solutionrelative:webapplication1.web\\bl\\services\\empleadoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA8EC8E3-A885-45AF-BB5B-F1C732A5B205}|WebApplication1.Web\\WebApplication1.Web.csproj|c:\\users\\toban\\desktop\\proyecto final\\webapplication1.web\\webapplication1.web\\bl\\dtos\\restaurantedtoadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA8EC8E3-A885-45AF-BB5B-F1C732A5B205}|WebApplication1.Web\\WebApplication1.Web.csproj|solutionrelative:webapplication1.web\\bl\\dtos\\restaurantedtoadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA8EC8E3-A885-45AF-BB5B-F1C732A5B205}|WebApplication1.Web\\WebApplication1.Web.csproj|c:\\users\\toban\\desktop\\proyecto final\\webapplication1.web\\webapplication1.web\\data\\interfaces\\iempleadodb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA8EC8E3-A885-45AF-BB5B-F1C732A5B205}|WebApplication1.Web\\WebApplication1.Web.csproj|solutionrelative:webapplication1.web\\data\\interfaces\\iempleadodb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA8EC8E3-A885-45AF-BB5B-F1C732A5B205}|WebApplication1.Web\\WebApplication1.Web.csproj|c:\\users\\toban\\desktop\\proyecto final\\webapplication1.web\\webapplication1.web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA8EC8E3-A885-45AF-BB5B-F1C732A5B205}|WebApplication1.Web\\WebApplication1.Web.csproj|solutionrelative:webapplication1.web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA8EC8E3-A885-45AF-BB5B-F1C732A5B205}|WebApplication1.Web\\WebApplication1.Web.csproj|c:\\users\\toban\\desktop\\proyecto final\\webapplication1.web\\webapplication1.web\\bl\\exceptions\\clienteserviceexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA8EC8E3-A885-45AF-BB5B-F1C732A5B205}|WebApplication1.Web\\WebApplication1.Web.csproj|solutionrelative:webapplication1.web\\bl\\exceptions\\clienteserviceexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA8EC8E3-A885-45AF-BB5B-F1C732A5B205}|WebApplication1.Web\\WebApplication1.Web.csproj|c:\\users\\toban\\desktop\\proyecto final\\webapplication1.web\\webapplication1.web\\bl\\exceptions\\empleadoserviceexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA8EC8E3-A885-45AF-BB5B-F1C732A5B205}|WebApplication1.Web\\WebApplication1.Web.csproj|solutionrelative:webapplication1.web\\bl\\exceptions\\empleadoserviceexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA8EC8E3-A885-45AF-BB5B-F1C732A5B205}|WebApplication1.Web\\WebApplication1.Web.csproj|c:\\users\\toban\\desktop\\proyecto final\\webapplication1.web\\webapplication1.web\\bl\\core\\serviceresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA8EC8E3-A885-45AF-BB5B-F1C732A5B205}|WebApplication1.Web\\WebApplication1.Web.csproj|solutionrelative:webapplication1.web\\bl\\core\\serviceresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA8EC8E3-A885-45AF-BB5B-F1C732A5B205}|WebApplication1.Web\\WebApplication1.Web.csproj|c:\\users\\toban\\desktop\\proyecto final\\webapplication1.web\\webapplication1.web\\views\\empleado\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AA8EC8E3-A885-45AF-BB5B-F1C732A5B205}|WebApplication1.Web\\WebApplication1.Web.csproj|solutionrelative:webapplication1.web\\views\\empleado\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\toban\\AppData\\Local\\Temp\\.vsdbgsrc\\2c886353c54f8519ed19f5eca68a3813312188dbad5fce1d1ea5e48a0c74ff08\\Views_Cliente_Index.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -137,7 +177,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -145,177 +185,345 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ClienteController.cs",
+              "DocumentMoniker": "C:\\Users\\toban\\Desktop\\proyecto final\\WebApplication1.Web\\WebApplication1.Web\\Controllers\\ClienteController.cs",
+              "RelativeDocumentMoniker": "WebApplication1.Web\\Controllers\\ClienteController.cs",
+              "ToolTip": "C:\\Users\\toban\\Desktop\\proyecto final\\WebApplication1.Web\\WebApplication1.Web\\Controllers\\ClienteController.cs",
+              "RelativeToolTip": "WebApplication1.Web\\Controllers\\ClienteController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T23:18:13.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\toban\\Desktop\\proyecto final\\WebApplication1.Web\\WebApplication1.Web\\Views\\Empleado\\Create.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1.Web\\Views\\Empleado\\Create.cshtml",
+              "ToolTip": "C:\\Users\\toban\\Desktop\\proyecto final\\WebApplication1.Web\\WebApplication1.Web\\Views\\Empleado\\Create.cshtml",
+              "RelativeToolTip": "WebApplication1.Web\\Views\\Empleado\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-21T21:44:12.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\toban\\Desktop\\proyecto final\\WebApplication1.Web\\WebApplication1.Web\\Views\\Cliente\\Create.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1.Web\\Views\\Cliente\\Create.cshtml",
+              "ToolTip": "C:\\Users\\toban\\Desktop\\proyecto final\\WebApplication1.Web\\WebApplication1.Web\\Views\\Cliente\\Create.cshtml",
+              "RelativeToolTip": "WebApplication1.Web\\Views\\Cliente\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-22T00:33:43.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\toban\\Desktop\\proyecto final\\WebApplication1.Web\\WebApplication1.Web\\Views\\Cliente\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1.Web\\Views\\Cliente\\Index.cshtml",
+              "ToolTip": "C:\\Users\\toban\\Desktop\\proyecto final\\WebApplication1.Web\\WebApplication1.Web\\Views\\Cliente\\Index.cshtml",
+              "RelativeToolTip": "WebApplication1.Web\\Views\\Cliente\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-21T23:15:12.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\toban\\Desktop\\proyecto final\\WebApplication1.Web\\WebApplication1.Web\\Program.cs",
+              "RelativeDocumentMoniker": "WebApplication1.Web\\Program.cs",
+              "ToolTip": "C:\\Users\\toban\\Desktop\\proyecto final\\WebApplication1.Web\\WebApplication1.Web\\Program.cs",
+              "RelativeToolTip": "WebApplication1.Web\\Program.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAABwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T00:01:02.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\toban\\Desktop\\proyecto final\\WebApplication1.Web\\WebApplication1.Web\\Views\\Empleado\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1.Web\\Views\\Empleado\\Index.cshtml",
+              "ToolTip": "C:\\Users\\toban\\Desktop\\proyecto final\\WebApplication1.Web\\WebApplication1.Web\\Views\\Empleado\\Index.cshtml",
+              "RelativeToolTip": "WebApplication1.Web\\Views\\Empleado\\Index.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-21T20:35:14.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "C:\\Users\\toban\\Desktop\\proyecto final\\WebApplication1.Web\\WebApplication1.Web\\Views\\Cliente\\Edit.cshtml",
               "RelativeDocumentMoniker": "WebApplication1.Web\\Views\\Cliente\\Edit.cshtml",
               "ToolTip": "C:\\Users\\toban\\Desktop\\proyecto final\\WebApplication1.Web\\WebApplication1.Web\\Views\\Cliente\\Edit.cshtml",
               "RelativeToolTip": "WebApplication1.Web\\Views\\Cliente\\Edit.cshtml",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAACMAAAASAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-06-22T00:47:37.697Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "Details.cshtml",
               "DocumentMoniker": "C:\\Users\\toban\\Desktop\\proyecto final\\WebApplication1.Web\\WebApplication1.Web\\Views\\Cliente\\Details.cshtml",
               "RelativeDocumentMoniker": "WebApplication1.Web\\Views\\Cliente\\Details.cshtml",
               "ToolTip": "C:\\Users\\toban\\Desktop\\proyecto final\\WebApplication1.Web\\WebApplication1.Web\\Views\\Cliente\\Details.cshtml",
               "RelativeToolTip": "WebApplication1.Web\\Views\\Cliente\\Details.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACgAAAAqAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAA2AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-22T00:08:32.667Z"
+              "WhenOpened": "2024-06-22T00:08:32.667Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Cliente.cs",
-              "DocumentMoniker": "C:\\Users\\toban\\Desktop\\proyecto final\\WebApplication1.Web\\WebApplication1.Web\\Data\\Entities\\Cliente.cs",
-              "RelativeDocumentMoniker": "WebApplication1.Web\\Data\\Entities\\Cliente.cs",
-              "ToolTip": "C:\\Users\\toban\\Desktop\\proyecto final\\WebApplication1.Web\\WebApplication1.Web\\Data\\Entities\\Cliente.cs",
-              "RelativeToolTip": "WebApplication1.Web\\Data\\Entities\\Cliente.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAANAAAA",
+              "DocumentIndex": 7,
+              "Title": "ClienteService.cs",
+              "DocumentMoniker": "C:\\Users\\toban\\Desktop\\proyecto final\\WebApplication1.Web\\WebApplication1.Web\\BL\\Services\\ClienteService.cs",
+              "RelativeDocumentMoniker": "WebApplication1.Web\\BL\\Services\\ClienteService.cs",
+              "ToolTip": "C:\\Users\\toban\\Desktop\\proyecto final\\WebApplication1.Web\\WebApplication1.Web\\BL\\Services\\ClienteService.cs",
+              "RelativeToolTip": "WebApplication1.Web\\BL\\Services\\ClienteService.cs",
+              "ViewState": "AQIAAHsAAAAAAAAAAAAmwHkAAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-21T19:38:17.059Z"
+              "WhenOpened": "2024-07-01T20:19:43.566Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ClienteController.cs",
-              "DocumentMoniker": "C:\\Users\\toban\\Desktop\\proyecto final\\WebApplication1.Web\\WebApplication1.Web\\Controllers\\ClienteController.cs",
-              "RelativeDocumentMoniker": "WebApplication1.Web\\Controllers\\ClienteController.cs",
-              "ToolTip": "C:\\Users\\toban\\Desktop\\proyecto final\\WebApplication1.Web\\WebApplication1.Web\\Controllers\\ClienteController.cs",
-              "RelativeToolTip": "WebApplication1.Web\\Controllers\\ClienteController.cs",
-              "ViewState": "AQIAACcAAAAAAAAAAAAIwDcAAAAdAAAA",
+              "DocumentIndex": 9,
+              "Title": "EmpleadoDb.cs",
+              "DocumentMoniker": "C:\\Users\\toban\\Desktop\\proyecto final\\WebApplication1.Web\\WebApplication1.Web\\Data\\DBObjects\\EmpleadoDb.cs",
+              "RelativeDocumentMoniker": "WebApplication1.Web\\Data\\DBObjects\\EmpleadoDb.cs",
+              "ToolTip": "C:\\Users\\toban\\Desktop\\proyecto final\\WebApplication1.Web\\WebApplication1.Web\\Data\\DBObjects\\EmpleadoDb.cs",
+              "RelativeToolTip": "WebApplication1.Web\\Data\\DBObjects\\EmpleadoDb.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAAAYwEgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-21T23:18:13.102Z"
+              "WhenOpened": "2024-06-19T21:27:58.379Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "EmpleadoController.cs",
-              "DocumentMoniker": "C:\\Users\\toban\\Desktop\\proyecto final\\WebApplication1.Web\\WebApplication1.Web\\Controllers\\EmpleadoController.cs",
-              "RelativeDocumentMoniker": "WebApplication1.Web\\Controllers\\EmpleadoController.cs",
-              "ToolTip": "C:\\Users\\toban\\Desktop\\proyecto final\\WebApplication1.Web\\WebApplication1.Web\\Controllers\\EmpleadoController.cs",
-              "RelativeToolTip": "WebApplication1.Web\\Controllers\\EmpleadoController.cs",
-              "ViewState": "AQIAADYAAAAAAAAAAAAYwEMAAAAQAAAA",
+              "DocumentIndex": 10,
+              "Title": "ClienteDb.cs",
+              "DocumentMoniker": "C:\\Users\\toban\\Desktop\\proyecto final\\WebApplication1.Web\\WebApplication1.Web\\Data\\DBObjects\\ClienteDb.cs",
+              "RelativeDocumentMoniker": "WebApplication1.Web\\Data\\DBObjects\\ClienteDb.cs",
+              "ToolTip": "C:\\Users\\toban\\Desktop\\proyecto final\\WebApplication1.Web\\WebApplication1.Web\\Data\\DBObjects\\ClienteDb.cs",
+              "RelativeToolTip": "WebApplication1.Web\\Data\\DBObjects\\ClienteDb.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAYwCcAAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-21T21:37:06.151Z"
+              "WhenOpened": "2024-06-21T20:10:10.752Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\toban\\Desktop\\proyecto final\\WebApplication1.Web\\WebApplication1.Web\\Views\\Empleado\\Edit.cshtml",
-              "RelativeDocumentMoniker": "WebApplication1.Web\\Views\\Empleado\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\toban\\Desktop\\proyecto final\\WebApplication1.Web\\WebApplication1.Web\\Views\\Empleado\\Edit.cshtml",
-              "RelativeToolTip": "WebApplication1.Web\\Views\\Empleado\\Edit.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAABAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-21T21:48:07.732Z"
+              "DocumentIndex": 11,
+              "Title": "ModelBase.cs",
+              "DocumentMoniker": "C:\\Users\\toban\\Desktop\\proyecto final\\WebApplication1.Web\\WebApplication1.Web\\Data\\Models\\Empleado\\ModelBase.cs",
+              "RelativeDocumentMoniker": "WebApplication1.Web\\Data\\Models\\Empleado\\ModelBase.cs",
+              "ToolTip": "C:\\Users\\toban\\Desktop\\proyecto final\\WebApplication1.Web\\WebApplication1.Web\\Data\\Models\\Empleado\\ModelBase.cs",
+              "RelativeToolTip": "WebApplication1.Web\\Data\\Models\\Empleado\\ModelBase.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAA5wAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T20:31:41.516Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 12,
+              "Title": "EmpleadoUpdateModel.cs",
+              "DocumentMoniker": "C:\\Users\\toban\\Desktop\\proyecto final\\WebApplication1.Web\\WebApplication1.Web\\Data\\Models\\Empleado\\EmpleadoUpdateModel.cs",
+              "RelativeDocumentMoniker": "WebApplication1.Web\\Data\\Models\\Empleado\\EmpleadoUpdateModel.cs",
+              "ToolTip": "C:\\Users\\toban\\Desktop\\proyecto final\\WebApplication1.Web\\WebApplication1.Web\\Data\\Models\\Empleado\\EmpleadoUpdateModel.cs",
+              "RelativeToolTip": "WebApplication1.Web\\Data\\Models\\Empleado\\EmpleadoUpdateModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAkAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T23:21:37.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "EmpleadoSaveModel.cs",
+              "DocumentMoniker": "C:\\Users\\toban\\Desktop\\proyecto final\\WebApplication1.Web\\WebApplication1.Web\\Data\\Models\\Empleado\\EmpleadoSaveModel.cs",
+              "RelativeDocumentMoniker": "WebApplication1.Web\\Data\\Models\\Empleado\\EmpleadoSaveModel.cs",
+              "ToolTip": "C:\\Users\\toban\\Desktop\\proyecto final\\WebApplication1.Web\\WebApplication1.Web\\Data\\Models\\Empleado\\EmpleadoSaveModel.cs",
+              "RelativeToolTip": "WebApplication1.Web\\Data\\Models\\Empleado\\EmpleadoSaveModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAcAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T22:24:34.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "EmpleadoRemoveModel.cs",
+              "DocumentMoniker": "C:\\Users\\toban\\Desktop\\proyecto final\\WebApplication1.Web\\WebApplication1.Web\\Data\\Models\\Empleado\\EmpleadoRemoveModel.cs",
+              "RelativeDocumentMoniker": "WebApplication1.Web\\Data\\Models\\Empleado\\EmpleadoRemoveModel.cs",
+              "ToolTip": "C:\\Users\\toban\\Desktop\\proyecto final\\WebApplication1.Web\\WebApplication1.Web\\Data\\Models\\Empleado\\EmpleadoRemoveModel.cs",
+              "RelativeToolTip": "WebApplication1.Web\\Data\\Models\\Empleado\\EmpleadoRemoveModel.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAYAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T20:25:37.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "EmpleadoGetModel.cs",
+              "DocumentMoniker": "C:\\Users\\toban\\Desktop\\proyecto final\\WebApplication1.Web\\WebApplication1.Web\\Data\\Models\\Empleado\\EmpleadoGetModel.cs",
+              "RelativeDocumentMoniker": "WebApplication1.Web\\Data\\Models\\Empleado\\EmpleadoGetModel.cs",
+              "ToolTip": "C:\\Users\\toban\\Desktop\\proyecto final\\WebApplication1.Web\\WebApplication1.Web\\Data\\Models\\Empleado\\EmpleadoGetModel.cs",
+              "RelativeToolTip": "WebApplication1.Web\\Data\\Models\\Empleado\\EmpleadoGetModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T20:31:19.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "EmpleadoBaseModel.cs",
+              "DocumentMoniker": "C:\\Users\\toban\\Desktop\\proyecto final\\WebApplication1.Web\\WebApplication1.Web\\Data\\Models\\Empleado\\EmpleadoBaseModel.cs",
+              "RelativeDocumentMoniker": "WebApplication1.Web\\Data\\Models\\Empleado\\EmpleadoBaseModel.cs",
+              "ToolTip": "C:\\Users\\toban\\Desktop\\proyecto final\\WebApplication1.Web\\WebApplication1.Web\\Data\\Models\\Empleado\\EmpleadoBaseModel.cs",
+              "RelativeToolTip": "WebApplication1.Web\\Data\\Models\\Empleado\\EmpleadoBaseModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T22:22:04.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
               "Title": "ModelBase.cs",
               "DocumentMoniker": "C:\\Users\\toban\\Desktop\\proyecto final\\WebApplication1.Web\\WebApplication1.Web\\Data\\Models\\Cliente\\ModelBase.cs",
               "RelativeDocumentMoniker": "WebApplication1.Web\\Data\\Models\\Cliente\\ModelBase.cs",
               "ToolTip": "C:\\Users\\toban\\Desktop\\proyecto final\\WebApplication1.Web\\WebApplication1.Web\\Data\\Models\\Cliente\\ModelBase.cs",
               "RelativeToolTip": "WebApplication1.Web\\Data\\Models\\Cliente\\ModelBase.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAqAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-21T20:31:28.812Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\toban\\Desktop\\proyecto final\\WebApplication1.Web\\WebApplication1.Web\\Views\\Cliente\\Index.cshtml",
-              "RelativeDocumentMoniker": "WebApplication1.Web\\Views\\Cliente\\Index.cshtml",
-              "ToolTip": "C:\\Users\\toban\\Desktop\\proyecto final\\WebApplication1.Web\\WebApplication1.Web\\Views\\Cliente\\Index.cshtml",
-              "RelativeToolTip": "WebApplication1.Web\\Views\\Cliente\\Index.cshtml",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAABsAAAAWAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-21T23:15:12.625Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\toban\\Desktop\\proyecto final\\WebApplication1.Web\\WebApplication1.Web\\Views\\Cliente\\Create.cshtml",
-              "RelativeDocumentMoniker": "WebApplication1.Web\\Views\\Cliente\\Create.cshtml",
-              "ToolTip": "C:\\Users\\toban\\Desktop\\proyecto final\\WebApplication1.Web\\WebApplication1.Web\\Views\\Cliente\\Create.cshtml",
-              "RelativeToolTip": "WebApplication1.Web\\Views\\Cliente\\Create.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAASAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-22T00:33:43.016Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\toban\\Desktop\\proyecto final\\WebApplication1.Web\\WebApplication1.Web\\Views\\Empleado\\Create.cshtml",
-              "RelativeDocumentMoniker": "WebApplication1.Web\\Views\\Empleado\\Create.cshtml",
-              "ToolTip": "C:\\Users\\toban\\Desktop\\proyecto final\\WebApplication1.Web\\WebApplication1.Web\\Views\\Empleado\\Create.cshtml",
-              "RelativeToolTip": "WebApplication1.Web\\Views\\Empleado\\Create.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAABNAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-21T21:44:12.57Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Details.cshtml",
-              "DocumentMoniker": "C:\\Users\\toban\\Desktop\\proyecto final\\WebApplication1.Web\\WebApplication1.Web\\Views\\Empleado\\Details.cshtml",
-              "RelativeDocumentMoniker": "WebApplication1.Web\\Views\\Empleado\\Details.cshtml",
-              "ToolTip": "C:\\Users\\toban\\Desktop\\proyecto final\\WebApplication1.Web\\WebApplication1.Web\\Views\\Empleado\\Details.cshtml",
-              "RelativeToolTip": "WebApplication1.Web\\Views\\Empleado\\Details.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAGAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-21T21:39:24.984Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "EmpleadoDb.cs",
-              "DocumentMoniker": "C:\\Users\\toban\\Desktop\\proyecto final\\WebApplication1.Web\\WebApplication1.Web\\Data\\DBObjects\\EmpleadoDb.cs",
-              "RelativeDocumentMoniker": "WebApplication1.Web\\Data\\DBObjects\\EmpleadoDb.cs",
-              "ToolTip": "C:\\Users\\toban\\Desktop\\proyecto final\\WebApplication1.Web\\WebApplication1.Web\\Data\\DBObjects\\EmpleadoDb.cs",
-              "RelativeToolTip": "WebApplication1.Web\\Data\\DBObjects\\EmpleadoDb.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAApAAAA",
+              "DocumentIndex": 18,
+              "Title": "ClienteUpdateModel.cs",
+              "DocumentMoniker": "C:\\Users\\toban\\Desktop\\proyecto final\\WebApplication1.Web\\WebApplication1.Web\\Data\\Models\\Cliente\\ClienteUpdateModel.cs",
+              "RelativeDocumentMoniker": "WebApplication1.Web\\Data\\Models\\Cliente\\ClienteUpdateModel.cs",
+              "ToolTip": "C:\\Users\\toban\\Desktop\\proyecto final\\WebApplication1.Web\\WebApplication1.Web\\Data\\Models\\Cliente\\ClienteUpdateModel.cs",
+              "RelativeToolTip": "WebApplication1.Web\\Data\\Models\\Cliente\\ClienteUpdateModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-19T21:27:58.379Z"
+              "WhenOpened": "2024-06-21T22:23:49.704Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\toban\\Desktop\\proyecto final\\WebApplication1.Web\\WebApplication1.Web\\Views\\Empleado\\Index.cshtml",
-              "RelativeDocumentMoniker": "WebApplication1.Web\\Views\\Empleado\\Index.cshtml",
-              "ToolTip": "C:\\Users\\toban\\Desktop\\proyecto final\\WebApplication1.Web\\WebApplication1.Web\\Views\\Empleado\\Index.cshtml",
-              "RelativeToolTip": "WebApplication1.Web\\Views\\Empleado\\Index.cshtml",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAAABIAAAA6AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-21T20:35:14.058Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "ClienteDb.cs",
-              "DocumentMoniker": "C:\\Users\\toban\\Desktop\\proyecto final\\WebApplication1.Web\\WebApplication1.Web\\Data\\DBObjects\\ClienteDb.cs",
-              "RelativeDocumentMoniker": "WebApplication1.Web\\Data\\DBObjects\\ClienteDb.cs",
-              "ToolTip": "C:\\Users\\toban\\Desktop\\proyecto final\\WebApplication1.Web\\WebApplication1.Web\\Data\\DBObjects\\ClienteDb.cs",
-              "RelativeToolTip": "WebApplication1.Web\\Data\\DBObjects\\ClienteDb.cs",
-              "ViewState": "AQIAABIAAAAAAAAAAAA5wAcAAAAAAAAA",
+              "DocumentIndex": 19,
+              "Title": "ClienteSaveModel.cs",
+              "DocumentMoniker": "C:\\Users\\toban\\Desktop\\proyecto final\\WebApplication1.Web\\WebApplication1.Web\\Data\\Models\\Cliente\\ClienteSaveModel.cs",
+              "RelativeDocumentMoniker": "WebApplication1.Web\\Data\\Models\\Cliente\\ClienteSaveModel.cs",
+              "ToolTip": "C:\\Users\\toban\\Desktop\\proyecto final\\WebApplication1.Web\\WebApplication1.Web\\Data\\Models\\Cliente\\ClienteSaveModel.cs",
+              "RelativeToolTip": "WebApplication1.Web\\Data\\Models\\Cliente\\ClienteSaveModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-21T20:10:10.752Z"
+              "WhenOpened": "2024-06-19T21:15:02.586Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 20,
+              "Title": "ClienteRemoveModel.cs",
+              "DocumentMoniker": "C:\\Users\\toban\\Desktop\\proyecto final\\WebApplication1.Web\\WebApplication1.Web\\Data\\Models\\Cliente\\ClienteRemoveModel.cs",
+              "RelativeDocumentMoniker": "WebApplication1.Web\\Data\\Models\\Cliente\\ClienteRemoveModel.cs",
+              "ToolTip": "C:\\Users\\toban\\Desktop\\proyecto final\\WebApplication1.Web\\WebApplication1.Web\\Data\\Models\\Cliente\\ClienteRemoveModel.cs",
+              "RelativeToolTip": "WebApplication1.Web\\Data\\Models\\Cliente\\ClienteRemoveModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T20:05:23.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ClienteGetModel.cs",
+              "DocumentMoniker": "C:\\Users\\toban\\Desktop\\proyecto final\\WebApplication1.Web\\WebApplication1.Web\\Data\\Models\\Cliente\\ClienteGetModel.cs",
+              "RelativeDocumentMoniker": "WebApplication1.Web\\Data\\Models\\Cliente\\ClienteGetModel.cs",
+              "ToolTip": "C:\\Users\\toban\\Desktop\\proyecto final\\WebApplication1.Web\\WebApplication1.Web\\Data\\Models\\Cliente\\ClienteGetModel.cs",
+              "RelativeToolTip": "WebApplication1.Web\\Data\\Models\\Cliente\\ClienteGetModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T21:13:34.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ClienteBaseModel.cs",
+              "DocumentMoniker": "C:\\Users\\toban\\Desktop\\proyecto final\\WebApplication1.Web\\WebApplication1.Web\\Data\\Models\\Cliente\\ClienteBaseModel.cs",
+              "RelativeDocumentMoniker": "WebApplication1.Web\\Data\\Models\\Cliente\\ClienteBaseModel.cs",
+              "ToolTip": "C:\\Users\\toban\\Desktop\\proyecto final\\WebApplication1.Web\\WebApplication1.Web\\Data\\Models\\Cliente\\ClienteBaseModel.cs",
+              "RelativeToolTip": "WebApplication1.Web\\Data\\Models\\Cliente\\ClienteBaseModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAcAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T22:16:13.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Empleado.cs",
+              "DocumentMoniker": "C:\\Users\\toban\\Desktop\\proyecto final\\WebApplication1.Web\\WebApplication1.Web\\Data\\Entities\\Empleado.cs",
+              "RelativeDocumentMoniker": "WebApplication1.Web\\Data\\Entities\\Empleado.cs",
+              "ToolTip": "C:\\Users\\toban\\Desktop\\proyecto final\\WebApplication1.Web\\WebApplication1.Web\\Data\\Entities\\Empleado.cs",
+              "RelativeToolTip": "WebApplication1.Web\\Data\\Entities\\Empleado.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T22:25:47.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\toban\\Desktop\\proyecto final\\WebApplication1.Web\\WebApplication1.Web\\Data\\Entities\\Cliente.cs",
+              "RelativeDocumentMoniker": "WebApplication1.Web\\Data\\Entities\\Cliente.cs",
+              "ToolTip": "C:\\Users\\toban\\Desktop\\proyecto final\\WebApplication1.Web\\WebApplication1.Web\\Data\\Entities\\Cliente.cs",
+              "RelativeToolTip": "WebApplication1.Web\\Data\\Entities\\Cliente.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T19:38:17.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "EmpleadoController.cs",
+              "DocumentMoniker": "C:\\Users\\toban\\Desktop\\proyecto final\\WebApplication1.Web\\WebApplication1.Web\\Controllers\\EmpleadoController.cs",
+              "RelativeDocumentMoniker": "WebApplication1.Web\\Controllers\\EmpleadoController.cs",
+              "ToolTip": "C:\\Users\\toban\\Desktop\\proyecto final\\WebApplication1.Web\\WebApplication1.Web\\Controllers\\EmpleadoController.cs",
+              "RelativeToolTip": "WebApplication1.Web\\Controllers\\EmpleadoController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T21:37:06.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
               "Title": "ClienteDbException.cs",
               "DocumentMoniker": "C:\\Users\\toban\\Desktop\\proyecto final\\WebApplication1.Web\\WebApplication1.Web\\Data\\Exceptions\\ClienteDbException.cs",
               "RelativeDocumentMoniker": "WebApplication1.Web\\Data\\Exceptions\\ClienteDbException.cs",
@@ -323,143 +531,25 @@
               "RelativeToolTip": "WebApplication1.Web\\Data\\Exceptions\\ClienteDbException.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-21T23:12:27.52Z"
+              "WhenOpened": "2024-06-21T23:12:27.52Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "ModelBase.cs",
-              "DocumentMoniker": "C:\\Users\\toban\\Desktop\\proyecto final\\WebApplication1.Web\\WebApplication1.Web\\Data\\Models\\Empleado\\ModelBase.cs",
-              "RelativeDocumentMoniker": "WebApplication1.Web\\Data\\Models\\Empleado\\ModelBase.cs",
-              "ToolTip": "C:\\Users\\toban\\Desktop\\proyecto final\\WebApplication1.Web\\WebApplication1.Web\\Data\\Models\\Empleado\\ModelBase.cs",
-              "RelativeToolTip": "WebApplication1.Web\\Data\\Models\\Empleado\\ModelBase.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAATAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-21T20:31:41.516Z"
+              "DocumentIndex": 27,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\toban\\Desktop\\proyecto final\\WebApplication1.Web\\WebApplication1.Web\\Views\\Empleado\\Details.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1.Web\\Views\\Empleado\\Details.cshtml",
+              "ToolTip": "C:\\Users\\toban\\Desktop\\proyecto final\\WebApplication1.Web\\WebApplication1.Web\\Views\\Empleado\\Details.cshtml",
+              "RelativeToolTip": "WebApplication1.Web\\Views\\Empleado\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-21T21:39:24.984Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "EmpleadoUpdateModel.cs",
-              "DocumentMoniker": "C:\\Users\\toban\\Desktop\\proyecto final\\WebApplication1.Web\\WebApplication1.Web\\Data\\Models\\Empleado\\EmpleadoUpdateModel.cs",
-              "RelativeDocumentMoniker": "WebApplication1.Web\\Data\\Models\\Empleado\\EmpleadoUpdateModel.cs",
-              "ToolTip": "C:\\Users\\toban\\Desktop\\proyecto final\\WebApplication1.Web\\WebApplication1.Web\\Data\\Models\\Empleado\\EmpleadoUpdateModel.cs",
-              "RelativeToolTip": "WebApplication1.Web\\Data\\Models\\Empleado\\EmpleadoUpdateModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-21T23:21:37.088Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "EmpleadoSaveModel.cs",
-              "DocumentMoniker": "C:\\Users\\toban\\Desktop\\proyecto final\\WebApplication1.Web\\WebApplication1.Web\\Data\\Models\\Empleado\\EmpleadoSaveModel.cs",
-              "RelativeDocumentMoniker": "WebApplication1.Web\\Data\\Models\\Empleado\\EmpleadoSaveModel.cs",
-              "ToolTip": "C:\\Users\\toban\\Desktop\\proyecto final\\WebApplication1.Web\\WebApplication1.Web\\Data\\Models\\Empleado\\EmpleadoSaveModel.cs",
-              "RelativeToolTip": "WebApplication1.Web\\Data\\Models\\Empleado\\EmpleadoSaveModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAArAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-21T22:24:34.484Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "EmpleadoRemoveModel.cs",
-              "DocumentMoniker": "C:\\Users\\toban\\Desktop\\proyecto final\\WebApplication1.Web\\WebApplication1.Web\\Data\\Models\\Empleado\\EmpleadoRemoveModel.cs",
-              "RelativeDocumentMoniker": "WebApplication1.Web\\Data\\Models\\Empleado\\EmpleadoRemoveModel.cs",
-              "ToolTip": "C:\\Users\\toban\\Desktop\\proyecto final\\WebApplication1.Web\\WebApplication1.Web\\Data\\Models\\Empleado\\EmpleadoRemoveModel.cs",
-              "RelativeToolTip": "WebApplication1.Web\\Data\\Models\\Empleado\\EmpleadoRemoveModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-21T20:25:37.267Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "EmpleadoGetModel.cs",
-              "DocumentMoniker": "C:\\Users\\toban\\Desktop\\proyecto final\\WebApplication1.Web\\WebApplication1.Web\\Data\\Models\\Empleado\\EmpleadoGetModel.cs",
-              "RelativeDocumentMoniker": "WebApplication1.Web\\Data\\Models\\Empleado\\EmpleadoGetModel.cs",
-              "ToolTip": "C:\\Users\\toban\\Desktop\\proyecto final\\WebApplication1.Web\\WebApplication1.Web\\Data\\Models\\Empleado\\EmpleadoGetModel.cs",
-              "RelativeToolTip": "WebApplication1.Web\\Data\\Models\\Empleado\\EmpleadoGetModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAKAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-21T20:31:19.235Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "ClienteBaseModel.cs",
-              "DocumentMoniker": "C:\\Users\\toban\\Desktop\\proyecto final\\WebApplication1.Web\\WebApplication1.Web\\Data\\Models\\Cliente\\ClienteBaseModel.cs",
-              "RelativeDocumentMoniker": "WebApplication1.Web\\Data\\Models\\Cliente\\ClienteBaseModel.cs",
-              "ToolTip": "C:\\Users\\toban\\Desktop\\proyecto final\\WebApplication1.Web\\WebApplication1.Web\\Data\\Models\\Cliente\\ClienteBaseModel.cs",
-              "RelativeToolTip": "WebApplication1.Web\\Data\\Models\\Cliente\\ClienteBaseModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-21T22:16:13.36Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "EmpleadoBaseModel.cs",
-              "DocumentMoniker": "C:\\Users\\toban\\Desktop\\proyecto final\\WebApplication1.Web\\WebApplication1.Web\\Data\\Models\\Empleado\\EmpleadoBaseModel.cs",
-              "RelativeDocumentMoniker": "WebApplication1.Web\\Data\\Models\\Empleado\\EmpleadoBaseModel.cs",
-              "ToolTip": "C:\\Users\\toban\\Desktop\\proyecto final\\WebApplication1.Web\\WebApplication1.Web\\Data\\Models\\Empleado\\EmpleadoBaseModel.cs",
-              "RelativeToolTip": "WebApplication1.Web\\Data\\Models\\Empleado\\EmpleadoBaseModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAATAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-21T22:22:04.343Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "ClienteGetModel.cs",
-              "DocumentMoniker": "C:\\Users\\toban\\Desktop\\proyecto final\\WebApplication1.Web\\WebApplication1.Web\\Data\\Models\\Cliente\\ClienteGetModel.cs",
-              "RelativeDocumentMoniker": "WebApplication1.Web\\Data\\Models\\Cliente\\ClienteGetModel.cs",
-              "ToolTip": "C:\\Users\\toban\\Desktop\\proyecto final\\WebApplication1.Web\\WebApplication1.Web\\Data\\Models\\Cliente\\ClienteGetModel.cs",
-              "RelativeToolTip": "WebApplication1.Web\\Data\\Models\\Cliente\\ClienteGetModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAgAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-19T21:13:34.206Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "ClienteRemoveModel.cs",
-              "DocumentMoniker": "C:\\Users\\toban\\Desktop\\proyecto final\\WebApplication1.Web\\WebApplication1.Web\\Data\\Models\\Cliente\\ClienteRemoveModel.cs",
-              "RelativeDocumentMoniker": "WebApplication1.Web\\Data\\Models\\Cliente\\ClienteRemoveModel.cs",
-              "ToolTip": "C:\\Users\\toban\\Desktop\\proyecto final\\WebApplication1.Web\\WebApplication1.Web\\Data\\Models\\Cliente\\ClienteRemoveModel.cs",
-              "RelativeToolTip": "WebApplication1.Web\\Data\\Models\\Cliente\\ClienteRemoveModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-21T20:05:23.59Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "ClienteSaveModel.cs",
-              "DocumentMoniker": "C:\\Users\\toban\\Desktop\\proyecto final\\WebApplication1.Web\\WebApplication1.Web\\Data\\Models\\Cliente\\ClienteSaveModel.cs",
-              "RelativeDocumentMoniker": "WebApplication1.Web\\Data\\Models\\Cliente\\ClienteSaveModel.cs",
-              "ToolTip": "C:\\Users\\toban\\Desktop\\proyecto final\\WebApplication1.Web\\WebApplication1.Web\\Data\\Models\\Cliente\\ClienteSaveModel.cs",
-              "RelativeToolTip": "WebApplication1.Web\\Data\\Models\\Cliente\\ClienteSaveModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-19T21:15:02.586Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "ClienteUpdateModel.cs",
-              "DocumentMoniker": "C:\\Users\\toban\\Desktop\\proyecto final\\WebApplication1.Web\\WebApplication1.Web\\Data\\Models\\Cliente\\ClienteUpdateModel.cs",
-              "RelativeDocumentMoniker": "WebApplication1.Web\\Data\\Models\\Cliente\\ClienteUpdateModel.cs",
-              "ToolTip": "C:\\Users\\toban\\Desktop\\proyecto final\\WebApplication1.Web\\WebApplication1.Web\\Data\\Models\\Cliente\\ClienteUpdateModel.cs",
-              "RelativeToolTip": "WebApplication1.Web\\Data\\Models\\Cliente\\ClienteUpdateModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-21T22:23:49.704Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 29,
               "Title": "RestauranteContext.cs",
               "DocumentMoniker": "C:\\Users\\toban\\Desktop\\proyecto final\\WebApplication1.Web\\WebApplication1.Web\\Data\\Context\\RestauranteContext.cs",
               "RelativeDocumentMoniker": "WebApplication1.Web\\Data\\Context\\RestauranteContext.cs",
@@ -471,43 +561,151 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "IEmpleadoDb.cs",
-              "DocumentMoniker": "C:\\Users\\toban\\Desktop\\proyecto final\\WebApplication1.Web\\WebApplication1.Web\\Data\\Interfaces\\IEmpleadoDb.cs",
-              "RelativeDocumentMoniker": "WebApplication1.Web\\Data\\Interfaces\\IEmpleadoDb.cs",
-              "ToolTip": "C:\\Users\\toban\\Desktop\\proyecto final\\WebApplication1.Web\\WebApplication1.Web\\Data\\Interfaces\\IEmpleadoDb.cs",
-              "RelativeToolTip": "WebApplication1.Web\\Data\\Interfaces\\IEmpleadoDb.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAABAAAA",
+              "DocumentIndex": 30,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\toban\\Desktop\\proyecto final\\WebApplication1.Web\\WebApplication1.Web\\Data\\Core\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "WebApplication1.Web\\Data\\Core\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\toban\\Desktop\\proyecto final\\WebApplication1.Web\\WebApplication1.Web\\Data\\Core\\BaseEntity.cs",
+              "RelativeToolTip": "WebApplication1.Web\\Data\\Core\\BaseEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-21T20:26:58.919Z"
+              "WhenOpened": "2024-06-21T22:50:02.922Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "IEmpleadoService.cs",
+              "DocumentMoniker": "C:\\Users\\toban\\Desktop\\proyecto final\\WebApplication1.Web\\WebApplication1.Web\\BL\\Interfaces\\IEmpleadoService.cs",
+              "RelativeDocumentMoniker": "WebApplication1.Web\\BL\\Interfaces\\IEmpleadoService.cs",
+              "ToolTip": "C:\\Users\\toban\\Desktop\\proyecto final\\WebApplication1.Web\\WebApplication1.Web\\BL\\Interfaces\\IEmpleadoService.cs",
+              "RelativeToolTip": "WebApplication1.Web\\BL\\Interfaces\\IEmpleadoService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T20:23:30.705Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 28,
+              "Title": "IClienteService.cs",
+              "DocumentMoniker": "C:\\Users\\toban\\Desktop\\proyecto final\\WebApplication1.Web\\WebApplication1.Web\\BL\\Interfaces\\IClienteService.cs",
+              "RelativeDocumentMoniker": "WebApplication1.Web\\BL\\Interfaces\\IClienteService.cs",
+              "ToolTip": "C:\\Users\\toban\\Desktop\\proyecto final\\WebApplication1.Web\\WebApplication1.Web\\BL\\Interfaces\\IClienteService.cs",
+              "RelativeToolTip": "WebApplication1.Web\\BL\\Interfaces\\IClienteService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T20:17:20.877Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
               "Title": "IClienteDb.cs",
               "DocumentMoniker": "C:\\Users\\toban\\Desktop\\proyecto final\\WebApplication1.Web\\WebApplication1.Web\\Data\\Interfaces\\IClienteDb.cs",
               "RelativeDocumentMoniker": "WebApplication1.Web\\Data\\Interfaces\\IClienteDb.cs",
               "ToolTip": "C:\\Users\\toban\\Desktop\\proyecto final\\WebApplication1.Web\\WebApplication1.Web\\Data\\Interfaces\\IClienteDb.cs",
               "RelativeToolTip": "WebApplication1.Web\\Data\\Interfaces\\IClienteDb.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-21T20:08:49.708Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "Empleado.cs",
-              "DocumentMoniker": "C:\\Users\\toban\\Desktop\\proyecto final\\WebApplication1.Web\\WebApplication1.Web\\Data\\Entities\\Empleado.cs",
-              "RelativeDocumentMoniker": "WebApplication1.Web\\Data\\Entities\\Empleado.cs",
-              "ToolTip": "C:\\Users\\toban\\Desktop\\proyecto final\\WebApplication1.Web\\WebApplication1.Web\\Data\\Entities\\Empleado.cs",
-              "RelativeToolTip": "WebApplication1.Web\\Data\\Entities\\Empleado.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "DocumentIndex": 33,
+              "Title": "EmpleadoService.cs",
+              "DocumentMoniker": "C:\\Users\\toban\\Desktop\\proyecto final\\WebApplication1.Web\\WebApplication1.Web\\BL\\Services\\EmpleadoService.cs",
+              "RelativeDocumentMoniker": "WebApplication1.Web\\BL\\Services\\EmpleadoService.cs",
+              "ToolTip": "C:\\Users\\toban\\Desktop\\proyecto final\\WebApplication1.Web\\WebApplication1.Web\\BL\\Services\\EmpleadoService.cs",
+              "RelativeToolTip": "WebApplication1.Web\\BL\\Services\\EmpleadoService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFYAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-20T22:25:47.987Z"
+              "WhenOpened": "2024-07-01T20:23:02.743Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 34,
+              "Title": "RestauranteDtoAdd.cs",
+              "DocumentMoniker": "C:\\Users\\toban\\Desktop\\proyecto final\\WebApplication1.Web\\WebApplication1.Web\\BL\\Dtos\\RestauranteDtoAdd.cs",
+              "RelativeDocumentMoniker": "WebApplication1.Web\\BL\\Dtos\\RestauranteDtoAdd.cs",
+              "ToolTip": "C:\\Users\\toban\\Desktop\\proyecto final\\WebApplication1.Web\\WebApplication1.Web\\BL\\Dtos\\RestauranteDtoAdd.cs",
+              "RelativeToolTip": "WebApplication1.Web\\BL\\Dtos\\RestauranteDtoAdd.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T20:51:59.611Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "IEmpleadoDb.cs",
+              "DocumentMoniker": "C:\\Users\\toban\\Desktop\\proyecto final\\WebApplication1.Web\\WebApplication1.Web\\Data\\Interfaces\\IEmpleadoDb.cs",
+              "RelativeDocumentMoniker": "WebApplication1.Web\\Data\\Interfaces\\IEmpleadoDb.cs",
+              "ToolTip": "C:\\Users\\toban\\Desktop\\proyecto final\\WebApplication1.Web\\WebApplication1.Web\\Data\\Interfaces\\IEmpleadoDb.cs",
+              "RelativeToolTip": "WebApplication1.Web\\Data\\Interfaces\\IEmpleadoDb.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAgAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T20:26:58.919Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\toban\\Desktop\\proyecto final\\WebApplication1.Web\\WebApplication1.Web\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "WebApplication1.Web\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\toban\\Desktop\\proyecto final\\WebApplication1.Web\\WebApplication1.Web\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "WebApplication1.Web\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T00:24:58.238Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "ClienteServiceException.cs",
+              "DocumentMoniker": "C:\\Users\\toban\\Desktop\\proyecto final\\WebApplication1.Web\\WebApplication1.Web\\BL\\Exceptions\\ClienteServiceException.cs",
+              "RelativeDocumentMoniker": "WebApplication1.Web\\BL\\Exceptions\\ClienteServiceException.cs",
+              "ToolTip": "C:\\Users\\toban\\Desktop\\proyecto final\\WebApplication1.Web\\WebApplication1.Web\\BL\\Exceptions\\ClienteServiceException.cs",
+              "RelativeToolTip": "WebApplication1.Web\\BL\\Exceptions\\ClienteServiceException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T20:52:13.203Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "EmpleadoServiceException.cs",
+              "DocumentMoniker": "C:\\Users\\toban\\Desktop\\proyecto final\\WebApplication1.Web\\WebApplication1.Web\\BL\\Exceptions\\EmpleadoServiceException.cs",
+              "RelativeDocumentMoniker": "WebApplication1.Web\\BL\\Exceptions\\EmpleadoServiceException.cs",
+              "ToolTip": "C:\\Users\\toban\\Desktop\\proyecto final\\WebApplication1.Web\\WebApplication1.Web\\BL\\Exceptions\\EmpleadoServiceException.cs",
+              "RelativeToolTip": "WebApplication1.Web\\BL\\Exceptions\\EmpleadoServiceException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T21:51:47.753Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "ServiceResult.cs",
+              "DocumentMoniker": "C:\\Users\\toban\\Desktop\\proyecto final\\WebApplication1.Web\\WebApplication1.Web\\BL\\Core\\ServiceResult.cs",
+              "RelativeDocumentMoniker": "WebApplication1.Web\\BL\\Core\\ServiceResult.cs",
+              "ToolTip": "C:\\Users\\toban\\Desktop\\proyecto final\\WebApplication1.Web\\WebApplication1.Web\\BL\\Core\\ServiceResult.cs",
+              "RelativeToolTip": "WebApplication1.Web\\BL\\Core\\ServiceResult.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T20:43:06.227Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\toban\\Desktop\\proyecto final\\WebApplication1.Web\\WebApplication1.Web\\Views\\Empleado\\Edit.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1.Web\\Views\\Empleado\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\toban\\Desktop\\proyecto final\\WebApplication1.Web\\WebApplication1.Web\\Views\\Empleado\\Edit.cshtml",
+              "RelativeToolTip": "WebApplication1.Web\\Views\\Empleado\\Edit.cshtml",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAiwBUAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-21T21:48:07.732Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
               "Title": "Views_Cliente_Index.cs",
               "DocumentMoniker": "C:\\Users\\toban\\AppData\\Local\\Temp\\.vsdbgsrc\\2c886353c54f8519ed19f5eca68a3813312188dbad5fce1d1ea5e48a0c74ff08\\Views_Cliente_Index.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\2c886353c54f8519ed19f5eca68a3813312188dbad5fce1d1ea5e48a0c74ff08\\Views_Cliente_Index.cs",
@@ -517,18 +715,6 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-21T23:11:26.077Z",
               "EditorCaption": " [Read Only]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 31,
-              "Title": "BaseEntity.cs",
-              "DocumentMoniker": "C:\\Users\\toban\\Desktop\\proyecto final\\WebApplication1.Web\\WebApplication1.Web\\Data\\Core\\BaseEntity.cs",
-              "RelativeDocumentMoniker": "WebApplication1.Web\\Data\\Core\\BaseEntity.cs",
-              "ToolTip": "C:\\Users\\toban\\Desktop\\proyecto final\\WebApplication1.Web\\WebApplication1.Web\\Data\\Core\\BaseEntity.cs",
-              "RelativeToolTip": "WebApplication1.Web\\Data\\Core\\BaseEntity.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAGAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-21T22:50:02.922Z"
             }
           ]
         }

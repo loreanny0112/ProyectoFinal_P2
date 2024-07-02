@@ -2,7 +2,7 @@
 {
     public abstract class BaseEntity
     {
-       public char Nombre { get; set; }
+       public string? Nombre { get; set; }
       
     }
 }

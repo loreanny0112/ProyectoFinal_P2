@@ -1,32 +1,46 @@
 ﻿using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using WebApplication1.Web.BL.Core;
+using WebApplication1.Web.BL.Interfaces;
 using WebApplication1.Web.Data.Context;
-using WebApplication1.Web.Data.DBObjects;
 using WebApplication1.Web.Data.Interfaces;
 using WebApplication1.Web.Data.Models;
 using WebApplication1.Web.Data.Models.Cliente;
+
 
 namespace WebApplication1.Web.Controllers
 {
     public class ClienteController : Controller
     {
-        private readonly IClienteDb clienteDb;
+        private readonly IClienteService clienteService;
 
-        public ClienteController(IClienteDb clienteDb)
+        public ClienteController(IClienteService clienteService)
         {
-            this.clienteDb = clienteDb;
+            this.clienteService = clienteService;
         }
         // GET: ClienteController
         public ActionResult Index()
         {
-            var clientes = this.clienteDb.GetClientes();
+            var result = clienteService.GetClientes();
+            if (!result.Success)
+            
+                ViewBag.Message = result.Message;
+
+            var clientes = (List<ClienteGetModel>)result.Data;
+
             return View(clientes);
         }
 
         // GET: ClienteController1/Details/5
         public ActionResult Details(int id)
         {
-            var cliente = this.clienteDb.GetCliente(id);
+           
+            var cliente = this.clienteService.GetCliente(id);
+            if (!cliente.Success)
+            {
+                ViewBag.Message = cliente.Message;
+                return View(new ClienteGetModel());
+            }
             return View(cliente);
         }
 
@@ -43,7 +57,7 @@ namespace WebApplication1.Web.Controllers
         {
             try
             {
-                this.clienteDb.saveCliente(clienteSave);
+                this.clienteService.SaveClientes(clienteSave);
                 return RedirectToAction(nameof(Index));
             }
             catch
@@ -55,8 +69,15 @@ namespace WebApplication1.Web.Controllers
         // GET: ClienteController1/Edit/5
         public ActionResult Edit(int id)
         {
-            var cliente = this.clienteDb.GetCliente(id);
+            var cliente = this.clienteService.GetCliente(id);
+           
+            if (!cliente.Success)
+            {
+                ViewBag.Message = cliente.Message;
+                return View(new ClienteGetModel());
+            }
             return View(cliente);
+            
         }
 
         // POST: ClienteController1/Edit/5
@@ -66,7 +87,7 @@ namespace WebApplication1.Web.Controllers
         {
             try
             {
-                this.clienteDb.UpdateCliente(clienteUpdate);
+                this.clienteService.UpdateClientes(clienteUpdate);
                 return RedirectToAction(nameof(Index));
             }
             catch

@@ -4,11 +4,15 @@
     ViewData["Title"] = "Index";
 }
 
-<h1>Cliente</h1>
+<h1>Cliente List</h1>
 
 <p>
     <a asp-action="Create">Create New</a>
 </p>
+@if  (ViewBag.Message is null)
+{
+    <span class="alert-danger">@ViewBag.Message</span>
+}
 <table class="table">
     <thead>
         <tr>
